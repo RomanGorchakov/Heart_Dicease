@@ -1,3 +1,4 @@
+Age,Sex,Chest Pain Type,Resting Blood Pressure,Serum Cholestoral in mg/dl,Fasting Blood Sugar > 120 mg/dl?,Resting Electrocardiographic Results,Maximum Heart Rate Achieved,Exercise Induced Angina,Oldpeak,The Slope of the Peak Exercise ST segment,Number of Major Vessels,Thal
 32,1,1,95,0,?,0,127,0,.7,1,?,?,1
 34,1,4,115,0,?,?,154,0,.2,1,?,?,1
 36,1,4,110,0,?,0,125,1,1,2,?,6,1
